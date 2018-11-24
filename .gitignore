@@ -112,5 +112,6 @@ fabric.properties
 .idea/sonarlint
 
 .idea
+*.iml
 
 # End of https://www.gitignore.io/api/intellij
